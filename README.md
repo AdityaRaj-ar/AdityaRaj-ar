@@ -1,4 +1,4 @@
-![AdityaRaj's-cover](./cover-image.png)
+![AdityaRaj's-cover](./cover%20image.png)
 
 ## 🧔 About Me
 
