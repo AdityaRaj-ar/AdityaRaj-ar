@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [css art gallery](https://github.com/AdityaRaj-ar/css-art-gallery) -->
 
-- 🌱 I’m currently learning **Python, Java, C++, Open Source, Competititve Programming, App Development, Web Development**
+- 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JavaScript, Open Source, Competititve Programming, App Development, Web Development**
 
 ## 🤝 Connect
 
