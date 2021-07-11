@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [css art gallery](https://github.com/AdityaRaj-ar/css-art-gallery)
+<!-- - 🔭 I’m currently working on [css art gallery](https://github.com/AdityaRaj-ar/css-art-gallery) -->
 
 - 🌱 I’m currently learning **Python, Java, C++, Open Source, Competititve Programming, App Development, Web Development**
 
