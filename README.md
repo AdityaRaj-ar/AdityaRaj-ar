@@ -4,6 +4,8 @@
 
 <!-- - 🔭 I’m currently working on [css art gallery](https://github.com/AdityaRaj-ar/css-art-gallery) -->
 
+- 🌱 I’m currently a **4 - star coder at CodeChef**
+
 - 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JavaScript, Open Source, Competititve Programming, App Development, Web Development**
 
 ## 🤝 Connect
