@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj-ar&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj-ar" /> </p>
 
-- I'm **Specialist at Codeforces and 4-star at CodeChef**
+- I'm **Expert at Codeforces and 5-star at CodeChef**
 
 - 🌱 I’m currently learning **new techniques in CP, and improving my WebD skills.**
 
